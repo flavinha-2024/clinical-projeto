@@ -9,3 +9,4 @@ This is the frontend application for the DoIt project. It interacts with the bac
    Clone this repository to your local machine.
 2. **Make a GET request**
    make a request to https://doit-production.up.railway.app/person which will return a list of persons.**
+3. make a card from each person object on list with his information. 
